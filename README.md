@@ -1,1 +1,2 @@
-# SOEN6011-SEP-Project-
+# SOEN6011-SEP-Project
+Repository for Software Engineering Processes Project.
